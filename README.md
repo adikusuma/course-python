@@ -16,8 +16,10 @@ repo untuk latihan python
 - buka project yang sudah di clone
 - lakukan perubahan
 - commit dan push ke github
-
 ## kesimpulan dari ini adalah
 - git memudahkan pekerjaan kita secara kolaborasi
+## nyoba update dari github
+- update dari github
+- pull dari lokal
 
 
