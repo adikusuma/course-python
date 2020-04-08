@@ -12,3 +12,6 @@ repo untuk latihan python
 -lakukan perubahan di local repo
 -commit hasil perubahan
 -lalu coba ambil perubahan dari remote
+## kesimpulan dari ini adalah
+-git memudahkan pekerjaan kita secara kolaborasi
+
