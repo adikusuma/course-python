@@ -21,5 +21,6 @@ repo untuk latihan python
 ## nyoba update dari github
 - update dari github
 - pull dari lokal
-
-
+## Tambahan 1
+- ini yang ditambahkan oleh PRO-1
+- setelah itu di push ke remote
