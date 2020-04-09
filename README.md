@@ -38,7 +38,6 @@ repo untuk latihan python
 - ceritanya gw lagi kerja di branch PRO1
 - ternyata di origin master udah ada perubahan
 - nanti nyoba pake fetch ke local baru di merge dengan PRO1
-
-
 ## ujicoba 
 - dari programmer lain sidah ada perubahan
+## baris terakhir
