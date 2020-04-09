@@ -40,3 +40,5 @@ repo untuk latihan python
 - nanti nyoba pake fetch ke local baru di merge dengan PRO1
 
 
+## ujicoba 
+- dari programmer lain sidah ada perubahan
