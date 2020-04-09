@@ -30,4 +30,6 @@ repo untuk latihan python
 ## ini tambahan dari situs langsung
 ## Iseng iseng coba nambah
 - apakah nanti jadi conflik atau tidak
+## nyoba lagi nambah belum dari branch sendiri
+- lalu nanti mau coba pull atau fecth
 
