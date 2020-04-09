@@ -34,4 +34,9 @@ repo untuk latihan python
 - apakah nanti jadi conflik atau tidak
 ## nyoba lagi nambah belum dari branch sendiri
 - lalu nanti mau coba pull atau fecth
+## harus berhasil uji cobanya
+- ceritanya gw lagi kerja di branch PRO1
+- ternyata di origin master udah ada perubahan
+- nanti nyoba pake fetch ke local baru di merge dengan PRO1
+
 
