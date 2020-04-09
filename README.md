@@ -21,5 +21,7 @@ repo untuk latihan python
 ## nyoba update dari github
 - update dari github
 - pull dari lokal
-
+## Tambahan 2
+- ini ditambahkan oleh pro 2 dari branch PRO2
+- cukup sekian dan terima kasih.
 
