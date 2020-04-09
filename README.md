@@ -30,3 +30,5 @@ repo untuk latihan python
 ## ini tambahan dari situs langsung
 ## ada perubahan lagi dari programmer lain ceritanya
 - dari local belum di push ke remote
+## ujicoba 
+- dari programmer lain sidah ada perubahan
