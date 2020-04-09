@@ -28,4 +28,5 @@ repo untuk latihan python
 - ini ditambahkan oleh pro 2 dari branch PRO2
 - cukup sekian dan terima kasih.
 ## ini tambahan dari situs langsung
-
+## ada perubahan lagi dari programmer lain ceritanya
+- dari local belum di push ke remote
