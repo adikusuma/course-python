@@ -24,3 +24,7 @@ repo untuk latihan python
 ## Tambahan 1
 - ini yang ditambahkan oleh PRO-1
 - setelah itu di push ke remote
+## Tambahan 2
+- ini ditambahkan oleh pro 2 dari branch PRO2
+- cukup sekian dan terima kasih.
+
