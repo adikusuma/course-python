@@ -27,4 +27,6 @@ repo untuk latihan python
 ## Tambahan 2
 - ini ditambahkan oleh pro 2 dari branch PRO2
 - cukup sekian dan terima kasih.
+## Iseng iseng coba nambah
+- apakah nanti jadi conflik atau tidak
 
